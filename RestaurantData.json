@@ -1,38 +1,38 @@
 let RestaurantsType = {
-            "The Green Fork Cafe":{
-              "name": "The Green Fork Cafe",
-              "opening_time": "Mon-Fri: 8AM - 4PM | Sat: 9AM - 3PM | Sun: Closed",
-              "location": "19 Park Row",
-              "description": "A health-conscious cafe serving vegetarian and vegan-friendly breakfasts, salads, and smoothies in a bright, plant-filled space."
-              "cuisine_type": "Vegetarian/Vegan"
-            },
-            "El Callejon Cantina":{
-              "name": "El Callejon Cantina",
-              "opening_time": "Mon-Fri: 1PM - 7PM | Sat: 11AM - 3PM | Sun: Closed",
-              "location": "42 Bold Row",
-              "description": "A lively Mexican cantina serving street-style tacos, mezcal cocktails, and live mariachi music on weekends."
-              "cuisine_type": "Mexican"
-            },
-            "Lotus Lantern":{
-              "name": "Lotus Lantern",
-              "opening_time": "Daily: 2PM - 11PM",
-              "location": "73 George Street",
-              "description": "A serene Chinese restaurant specializing in Sichuan and Cantonese cuisine with a modern twist, set in a lantern-lit interior."
-              "cuisine_type": "Chinese"
-            },
-            "Trattoria":{
-              "name": "Trattoria",
-              "opening_time": "Tue - Sun: 1PM - 10:30PM | Mon: Closed",
-              "location": "12 Dean Street",
-              "description": "Family-owned Italian trattoria known for handmade pasta, Neapolitan pizzas, and a robust wine list."
-              "cuisine_type": "Italian"
-            },
-            "The Ember Table":{
-              "name": "The Ember Table",
-              "opening_time": "Daily: 11AM - 10PM",
-              "location": "58 Rose Lane",
-              "description": "A sleek, contemporary restaurant offering wood-fired dishes and seasonal craft cocktails in a cozy, minimalist space."
-              "cuisine_type": "British"
-            }
-        };
+  "The Green Fork Cafe": {
+    "name": "The Green Fork Cafe",
+    "opening_time": "Mon-Fri: 8AM - 4PM | Sat: 9AM - 3PM | Sun: Closed",
+    "location": "19 Park Row",
+    "description": "A health-conscious cafe serving vegetarian and vegan-friendly breakfasts, salads, and smoothies in a bright, plant-filled space.",
+    "cuisine_type": "Vegetarian/Vegan"
+  },
+  "El Callejon Cantina": {
+    "name": "El Callejon Cantina",
+    "opening_time": "Mon-Fri: 1PM - 7PM | Sat: 11AM - 3PM | Sun: Closed",
+    "location": "42 Bold Row",
+    "description": "A lively Mexican cantina serving street-style tacos, mezcal cocktails, and live mariachi music on weekends.",
+    "cuisine_type": "Mexican"
+  },
+  "Lotus Lantern": {
+    "name": "Lotus Lantern",
+    "opening_time": "Daily: 2PM - 11PM",
+    "location": "73 George Street",
+    "description": "A serene Chinese restaurant specializing in Sichuan and Cantonese cuisine with a modern twist, set in a lantern-lit interior.",
+    "cuisine_type": "Chinese"
+  },
+  "Trattoria": {
+    "name": "Trattoria",
+    "opening_time": "Tue - Sun: 1PM - 10:30PM | Mon: Closed",
+    "location": "12 Dean Street",
+    "description": "Family-owned Italian trattoria known for handmade pasta, Neapolitan pizzas, and a robust wine list.",
+    "cuisine_type": "Italian"
+  },
+  "The Ember Table": {
+    "name": "The Ember Table",
+    "opening_time": "Daily: 11AM - 10PM",
+    "location": "58 Rose Lane",
+    "description": "A sleek, contemporary restaurant offering wood-fired dishes and seasonal craft cocktails in a cozy, minimalist space.",
+    "cuisine_type": "British"
+  }
+};
 
