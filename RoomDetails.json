@@ -1,31 +1,31 @@
 {
   "rooms": [
     {
-      "roomNumber": "T105",
+      "roomAllocation": "Room T105",
       "building": "Turing Building",
       "floorLevel": "First Floor",
       "locationDescription": "Located next to the main library, opposite the Student Union."
     },
     {
-      "roomNumber": "B007",
+      "roomAllocation": "Room B007",
       "building": "Babbage Centre",
       "floorLevel": "Ground Floor",
       "locationDescription": "At the eastern edge of campus near the engineering quad and cycle racks."
     },
     {
-      "roomNumber": "L208",
+      "roomAllocation": "Room L208",
       "building": "Lovelace Building",
       "floorLevel": "Second Floor",
       "locationDescription": "Behind the main admin building, adjacent to the computer science courtyard."
     },
     {
-      "roomNumber": "T304",
+      "roomAllocation": "Room T304",
       "building": "Turing Building",
       "floorLevel": "Third Floor",
       "locationDescription": "Next to the main library, opposite the Student Union."
     },
     {
-      "roomNumber": "B303",
+      "roomAllocation": "Room B303",
       "building": "Babbage Centre",
       "floorLevel": "Third Floor",
       "locationDescription": "Eastern campus, beside the innovation labs and close to the bus stop."
